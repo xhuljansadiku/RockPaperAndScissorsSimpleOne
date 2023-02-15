@@ -46,3 +46,28 @@ body {
    background-color: whitesmoke;
    color: darkblue;
   }
+
+  /* Footer part */
+  footer {
+    background-color: whitesmoke;
+    color: darkblue;
+    padding: 20px 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  p {
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  @media (min-width: 768px) {
+    p {
+      font-size: 16px;
+    }
+  }
+  
