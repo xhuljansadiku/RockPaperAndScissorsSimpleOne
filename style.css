@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    width: 960px auto;
+    height: auto;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  .game {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+
+  }
+  
+  button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    color: black;
+    text-align: center;
+  }
+ 
+  
+  .result {
+    margin-top: 50px;
+  }
+  
+  #result {
+     
+    text-align: center;
+    font-size: 30px;
+    color: red;
+  }
+  
+
+  .info {
+    display: inline-flex;
+    text-align: center;
+  }
+
+  .pagesName{
+   background-color: whitesmoke;
+   color: darkblue;
+  }
